@@ -1,5 +1,6 @@
 # docker_elixir_phantomjs
 Image for Elixir with PhantomJS, useful for testing Phoenix apps with Hound.
+This is my first Docker image so suggestions welcome.
 
 ## License
 
